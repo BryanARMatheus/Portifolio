@@ -1,15 +1,18 @@
 
 ---
 ## Descrição do Projeto
-No primeiro semestre de 2024, desenvolvemos uma Calculadora Científica e Financeira focada em ambiente de linha de comando (CLI). O objetivo era construir uma aplicação que centralizasse cálculos matemáticos complexos de forma modular, garantindo altíssima precisão e uma interface de terminal que fosse imune a erros críticos de digitação por parte do usuário.
+No primeiro semestre, desenvolvemos uma Calculadora Científica e Financeira focada em ambiente de linha de comando/terminal. O objetivo era construir uma aplicação que centralizasse cálculos matemáticos complexos de forma modular, garantindo precisão e praticidade em uma interface de terminal prevenindo erros comuns e críticos.
 
 ### Contribuição para o Projeto
 
-Desenvolvi a lógica algorítmica para o cálculo de números fatoriais. O foco técnico esteve voltado à otimização do código e ao controle de limites numéricos, prevenindo problemas clássicos de _overflow_ (estouro de capacidade da variável) e garantindo a estabilidade da aplicação ao inserir números muito grandes, também implementei as funções fundamentais de adição e subtração em TypeScript.
-Identifiquei e corrigi falhas críticas na ramificação principal (_main branch_) que impediam a inicialização correta da aplicação. Adicionalmente, atuei na padronização visual da interface de linha de comando, estruturando menus consistentes para melhorar a legibilidade e a navegabilidade do usuário através do terminal.
+Esse primeiro semestre foi um grande aprendizado e ótima iniciação para programação e trabalho em equipe no modelo scrum, precisei aprender e aplicar o conceito de algoritmos, aprender todos os conceitos de programação e como trabalhar em equipe para desenvolver um projeto com diversos membros na equipe, foi um ótimo aprendizado para o modelo scrum e como funciona algo similar ao desenvolvimento de projetos em nível do mercado de trabalho.
+
+Em questão de programação, desenvolvi a lógica para o cálculo de números fatoriais. O foco técnico esteve voltado à otimização do código com cálculos de números grandes e ao controle de limites numéricos, prevenindo problemas clássicos de _overflow_ (estouro de capacidade da variável) e garantindo a estabilidade da aplicação ao inserir números muito grandes, também implementei as funções fundamentais de adição e subtração em TypeScript.
+
+Identifiquei e corrigi falhas na branch principal que impediam a inicialização correta da aplicação. Adicionalmente, atuei na padronização visual da interface de linha de comando, estruturando menus consistentes para melhorar a legibilidade e a navegabilidade do usuário através do terminal, foram experiencias importantes para iniciar minha jornada como programador.
 
 ### Soft Skills
 
-- **Comunicação:** Participação ativa em reuniões de alinhamento (_Daily Meetings_) semanais para exposição do progresso técnico e compartilhamento de ideias, otimizando o fluxo de aprendizado diante de novos conceitos.
-    
-- **Trabalho em Equipe e Cultura Ágil:** Engajamento no gerenciamento de tarefas por meio de fluxos de trabalho visuais (quadros de _cards_), colaborando diretamente com os pares e exercitando a proatividade ao buscar suporte técnico com integrantes mais experientes sempre que surgiam barreiras complexas de desenvolvimento.
+Nesse primeiro projeto precisei exercitar minha comunicação e trabalho em equipe, foi minha primeira experiencia com projetos sérios envolvendo scrum e uma equipe de grande tamanho, precisei aprender a tirar duvidas e interagir com outros desenvolvedores para transformar o projeto em realidade.
+
+Também exercitei a parte de automação e proatividade em realizar as tarefas, foi uma grande mudança de ambientes e um pilar fundamental para começar minha jornada no mercado de TI
