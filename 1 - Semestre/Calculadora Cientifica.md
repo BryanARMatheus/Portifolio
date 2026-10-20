@@ -16,3 +16,9 @@ Identifiquei e corrigi falhas na branch principal que impediam a inicialização
 Nesse primeiro projeto precisei exercitar minha comunicação e trabalho em equipe, foi minha primeira experiencia com projetos sérios envolvendo scrum e uma equipe de grande tamanho, precisei aprender a tirar duvidas e interagir com outros desenvolvedores para transformar o projeto em realidade.
 
 Também exercitei a parte de automação e proatividade em realizar as tarefas, foi uma grande mudança de ambientes e um pilar fundamental para começar minha jornada no mercado de TI
+
+### Tecnologias utilizadas
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)]()
