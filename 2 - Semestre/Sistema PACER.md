@@ -6,6 +6,7 @@ Neste projeto, desenvolvemos um Sistema Desktop de Avaliação baseado na Metodo
 ### Contribuição para o Projeto
 
 Atuei de ponta a ponta (Full-Stack), foi minha primeira experiência com o modelo de Backend e Frontend, Java foi um grande passo do TypeScript utilizado anteriormente, entender e compreender a sintaxe para executar as consultas e regras de negócio das tarefas foi uma ótima experiencia de aprendizado, criei a função de processamento de CSV, lendo arquivos .csv enviados pelo usuário direto do front, verificando se a formatação de dados está correta para conseguir gravar as informações do pacer corretamente no banco de dados, além disso criei a lógica principal da aplicação de média ponderada para mostrar corretamente a nota dos estudantes considerando todas as votações feitas do grupo. 
+
 Nosso front foi feito com JavaFX e Scene Builder para facilitar a programação e conexão com o backend, foi uma experiencia sem atritos, trabalhei sobre a pagina de alunos adicionando alguns aspectos e campos para melhorar a visualização do usuário, tela de importação de CSV, ela também incluia uma pré visualização dos dados csv formatados em tabela, ademais a tabela de média ponderada dos grupos de alunos para visualização do professor.
 
 ### Soft Skills
