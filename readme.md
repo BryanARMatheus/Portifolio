@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Ola sou o Bryan um estudante de banco de dados e estou sempre procurando maneiras de expandir meu conhecimendo na area de técnologia da informação, me formei previamente na ETEC Machado de Assis e atualmente estou cursando o curso de técnologo em banco de dados na FATEC de São José dos Campos - Jessen Vidal.
+Ola sou o Bryan um estudante de banco de dados e faço parte da EBInterchange empresa focada em integração de sistemas, e estou sempre procurando maneiras de expandir meu conhecimento na area de tecnologia da informação, me formei previamente na ETEC Machado de Assis e atualmente estou cursando o curso de técnologo em banco de dados na FATEC de São José dos Campos - Jessen Vidal.
 
 <div align="center">
 
@@ -13,8 +13,9 @@ Ola sou o Bryan um estudante de banco de dados e estou sempre procurando maneira
 
 </div>
 
+Sempre fui interessado pela area de TI e computação e como a tecnologia realmente funciona, meu primeiro contato oficial com lógica de programação foi na própria FATEC, desenvolvi minhas habilidades como desenvolvedor e gerente de projetos e hoje em dia atuo na EBInterchange criando sistemas de integração, atuo em algumas áreas como Gerencia de projetos, Costumer Experience e suporte aos produtos em produção, continuo desenvolvendo minhas habilidades como profissional na area de TI.
 
-
+Estou sempre evoluindo entendendo novos padrões, linguagens e criando projetos pessoais no meu tempo livre.
 
 
 ## Meus Projetos
